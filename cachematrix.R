@@ -1,5 +1,5 @@
 ## Assignment submission for Week 3 assignment of R-Programming Course (Coursera).
-## 2 functions to create a CacheMatrix 
+## A pair of functions that cache the inverse of a matrix.
 
 ## makeCacheMetrix - takes a matrix (and stores it) and can cache the result of the inverse calculated 
 ## with the cacheSolve function.
